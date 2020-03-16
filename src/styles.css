@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.block-about {
+  max-width: 500px;
+  margin: 20px;
+}
+
+.block-recomendations {
+  margin: 20px;
+}
+
+.btn-back {
+  display: block;
+  padding-bottom: 10px;
+  text-decoration: none;
+  text-decoration: underline;
+  color: #000000;
+  transition: 0.3s;
+}
+
+.btn-back:hover {
+  color: lightslategrey;
+}
