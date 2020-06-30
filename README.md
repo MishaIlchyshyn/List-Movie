@@ -1,4 +1,8 @@
 # test
+
+
+The application uses The Movie Database API - https://www.themoviedb.org/documentation/api;
+
 Created with CodeSandbox
 
 src on CodeSandbox: https://codesandbox.io/s/test-6cc6x
